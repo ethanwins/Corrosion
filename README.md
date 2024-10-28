@@ -2,7 +2,7 @@
 
 The old official web proxy of TitaniumNetwork.
 
-Succeeded by [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet).
+Succeeded by [alloy](https://github.com/titaniumnetwork-dev/alloy).
 Successor to [Alloy](https://github.com/titaniumnetwork-dev/alloy).
 
 ## Table of Contents
